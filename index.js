@@ -29,7 +29,7 @@ const closeInfoBtn = document.getElementById('close-info');
 const loadingDiv = document.querySelector('#loading');
 
 
-/* I've been trying to commit these changesblah*/
+/* I've been trying to commit these changesblah now what*/
 fetch('data.json')
   .then(response => response.json())
   .then(data => {
