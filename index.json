@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "name": "Eiffel Tower",
+      "description": "Iconic iron lattice tower on the Champ de Mars in Paris, France. It is named after the engineer Gustave Eiffel, whose company designed and built the tower.",
+      "year": "Completed in 1889",
+      "location": "Paris, France",
+      "continent": "europe"
+    },
+    {
+      "id": 2,
+      "name": "Statue of Liberty",
+      "description": "Colossal neoclassical sculpture on Liberty Island in New York Harbor. A gift from the people of France to the people of the United States.",
+      "year": "Dedicated in 1886",
+      "location": "New York City, USA",
+      "continent": "north-america"
+    },
+    {
+      "id": 3,
+      "name": "Great Wall of China",
+      "description": "Series of fortifications made of stone, brick, tamped earth, wood, and other materials, built along the northern borders of China to protect against invasions.",
+      "year": "Construction began in the 7th century BC",
+      "location": "Northern China",
+      "continent": "asia"
+    },
+    {
+      "id": 4,
+      "name": "Taj Mahal",
+      "description": "Ivory-white marble mausoleum on the south bank of the Yamuna river. It was commissioned by the Mughal emperor Shah Jahan to house the tomb of his favorite wife, Mumtaz Mahal.",
+      "year": "Completed in 1643",
+      "location": "Agra, India",
+      "continent": "asia"
+    },
+    {
+      "id": 5,
+      "name": "Pyramids of Giza",
+      "description": "Ancient Egyptian pyramid complex, including the Great Pyramid of Giza, the Pyramid of Khafre, and the Pyramid of Menkaure, along with the Great Sphinx.",
+      "year": "Built around 2560–2540 BC",
+      "location": "Giza, Egypt",
+      "continent": "africa"
+    },
+    {
+      "id": 6,
+      "name": "Colosseum",
+      "description": "Oval amphitheatre in the centre of the city of Rome. It is the largest ancient amphitheatre ever built and is still the largest standing amphitheatre in the world.",
+      "year": "Completed in 80 AD",
+      "location": "Rome, Italy",
+      "continent": "europe"
+    },
+    {
+      "id": 7,
+      "name": "Machu Picchu",
+      "description": "15th-century Inca citadel situated on a mountain ridge above the Sacred Valley. It is the most familiar icon of Inca civilization.",
+      "year": "Built in the 15th century",
+      "location": "Cusco Region, Peru",
+      "continent": "south-america"
+    },
+    {
+      "id": 8,
+      "name": "Christ the Redeemer",
+      "description":"An iconic Art Deco statue of Jesus Christ",
+      "year": " Built between 1922-1931",
+      "location": "Rio de Janeiro",
+      "continent": "South America"
+    }
+]

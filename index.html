@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <link rel="stylesheet" href="style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SBA 316</title>
+</head>
+
+<body>
+    <div class="app-container">
+        <header>
+            <h1> World Monuments Explorer</h1>
+
+            <div id="monuments"></div>
+
+
+            
+            <select id="continent-filter">
+                <option value="all">All Continents</option>
+                <option value="africa">Africa</option>
+                <option value="asia">Asia</option>
+                <option value="europe">Europe</option>
+                <option value="north-america">North America</option>
+                <option value="south-america">South America</option>
+                <option value="oceania">Oceania</option>
+            </select>
+    </header>
+    <main>
+        <ul id="monument-list"></ul>
+        <div id="monument-info" class="hidden" aria-hidden="true" role="dialog">
+            <button id="close-info" aria-label="Close">x</button>
+            <div id="monument-content">
+                <h2 id="monument-name"></h2>
+                <p id="monument-location"></p>
+                <p id="monument-description"></p>
+                <p id="monument-year"></p>
+            </div>
+        </div>
+    </main>
+
+
+
+    <h2> About World Monuments Explorer</h2>
+    <p>This application allows you to explore famous
+        <br>monuments from around the world.
+        <br> Browse by continent.
+    </p>
+    
+    
+
+   <div id="loading" class="hidden">
+        <div class="spinner"></div>
+        
+   </div>
+    
+
+    <script src="index.js" defer></script>
+    <footer>
+        <p>© 2025 World Monuments Explorer | </p>
+    </footer>
+</body>
+
+</html>
